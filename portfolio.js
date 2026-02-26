@@ -1,4 +1,3 @@
-
 const ham = document.getElementById("ham");
 const navLinks = document.getElementById("navLinks");
 ham.onclick = function () {
